@@ -1,3 +1,4 @@
+//can also have fast and slow pointer approach
 class Solution {
     public int findDuplicate(int[] nums) {
         HashSet<Integer> visited=new HashSet<>();
