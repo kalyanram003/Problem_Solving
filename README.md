@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalyanram003/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kalyanram003/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/kalyanram003/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kalyanram003/leetcode/tree/master/0078-subsets) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalyanram003/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kalyanram003/leetcode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanram003/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
