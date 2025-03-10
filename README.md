@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kalyanram003/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanram003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kalyanram003/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kalyanram003/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanram003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kalyanram003/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalyanram003/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalyanram003/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
