@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kalyanram003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kalyanram003/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/kalyanram003/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/kalyanram003/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalyanram003/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kalyanram003/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanram003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0941-sort-array-by-parity](https://github.com/kalyanram003/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/kalyanram003/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kalyanram003/leetcode/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0941-sort-array-by-parity](https://github.com/kalyanram003/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/kalyanram003/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
