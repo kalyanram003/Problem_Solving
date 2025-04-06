@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kalyanram003/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kalyanram003/leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kalyanram003/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0556-next-greater-element-iii](https://github.com/kalyanram003/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kalyanram003/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kalyanram003/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanram003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kalyanram003/leetcode/tree/master/0344-reverse-string) |
+| [0556-next-greater-element-iii](https://github.com/kalyanram003/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0941-sort-array-by-parity](https://github.com/kalyanram003/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kalyanram003/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2228-watering-plants-ii](https://github.com/kalyanram003/leetcode/tree/master/2228-watering-plants-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kalyanram003/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/kalyanram003/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/kalyanram003/leetcode/tree/master/0556-next-greater-element-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalyanram003/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
 |  |
