@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kalyanram003/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kalyanram003/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanram003/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/kalyanram003/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kalyanram003/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0841-shortest-distance-to-a-character](https://github.com/kalyanram003/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/kalyanram003/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kalyanram003/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Simulation
 |  |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/kalyanram003/leetcode/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/kalyanram003/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/kalyanram003/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kalyanram003/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
