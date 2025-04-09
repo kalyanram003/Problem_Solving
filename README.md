@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/kalyanram003/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/kalyanram003/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalyanram003/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/kalyanram003/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kalyanram003/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/kalyanram003/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/kalyanram003/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kalyanram003/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/kalyanram003/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kalyanram003/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kalyanram003/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Simulation
