@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalyanram003/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kalyanram003/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kalyanram003/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kalyanram003/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kalyanram003/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kalyanram003/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/kalyanram003/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Matrix
 |  |
 | ------- |
