@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kalyanram003/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/kalyanram003/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/kalyanram003/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/kalyanram003/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalyanram003/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/kalyanram003/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/kalyanram003/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/kalyanram003/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/kalyanram003/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kalyanram003/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kalyanram003/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
