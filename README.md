@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kalyanram003/leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kalyanram003/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0556-next-greater-element-iii](https://github.com/kalyanram003/leetcode/tree/master/0556-next-greater-element-iii) |
+| [1635-number-of-good-pairs](https://github.com/kalyanram003/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kalyanram003/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1635-number-of-good-pairs](https://github.com/kalyanram003/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/kalyanram003/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2228-watering-plants-ii](https://github.com/kalyanram003/leetcode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalyanram003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1635-number-of-good-pairs](https://github.com/kalyanram003/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/kalyanram003/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kalyanram003/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1635-number-of-good-pairs](https://github.com/kalyanram003/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/kalyanram003/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalyanram003/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
