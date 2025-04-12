@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/kalyanram003/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kalyanram003/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/kalyanram003/leetcode/tree/master/0979-di-string-match) |
+| [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/kalyanram003/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kalyanram003/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/kalyanram003/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/kalyanram003/leetcode/tree/master/0979-di-string-match) |
+| [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kalyanram003/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/kalyanram003/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/kalyanram003/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kalyanram003/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/kalyanram003/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
