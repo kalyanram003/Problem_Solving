@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/kalyanram003/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/kalyanram003/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/kalyanram003/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/kalyanram003/leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kalyanram003/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2388-replace-elements-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kalyanram003/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/kalyanram003/leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kalyanram003/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
