@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/kalyanram003/leetcode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalyanram003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2388-replace-elements-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalyanram003/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kalyanram003/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kalyanram003/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/kalyanram003/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kalyanram003/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2388-replace-elements-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kalyanram003/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kalyanram003/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2228-watering-plants-ii](https://github.com/kalyanram003/leetcode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalyanram003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2388-replace-elements-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/2388-replace-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
