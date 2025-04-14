@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kalyanram003/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalyanram003/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kalyanram003/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/kalyanram003/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kalyanram003/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kalyanram003/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kalyanram003/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kalyanram003/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kalyanram003/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kalyanram003/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/kalyanram003/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kalyanram003/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kalyanram003/leetcode/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kalyanram003/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kalyanram003/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kalyanram003/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/kalyanram003/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kalyanram003/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kalyanram003/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kalyanram003/leetcode/tree/master/0344-reverse-string) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalyanram003/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kalyanram003/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kalyanram003/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/kalyanram003/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kalyanram003/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kalyanram003/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
