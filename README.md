@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kalyanram003/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0841-shortest-distance-to-a-character](https://github.com/kalyanram003/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/kalyanram003/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/kalyanram003/leetcode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/kalyanram003/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/kalyanram003/leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/kalyanram003/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/kalyanram003/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/kalyanram003/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0952-word-subsets](https://github.com/kalyanram003/leetcode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/kalyanram003/leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kalyanram003/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kalyanram003/leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0952-word-subsets](https://github.com/kalyanram003/leetcode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/kalyanram003/leetcode/tree/master/1635-number-of-good-pairs) |
