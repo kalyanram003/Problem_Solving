@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kalyanram003/leetcode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/kalyanram003/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kalyanram003/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/kalyanram003/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalyanram003/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/kalyanram003/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/kalyanram003/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/kalyanram003/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kalyanram003/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/kalyanram003/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalyanram003/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/kalyanram003/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/kalyanram003/leetcode/tree/master/0952-word-subsets) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kalyanram003/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kalyanram003/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/kalyanram003/leetcode/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/kalyanram003/leetcode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalyanram003/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kalyanram003/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/kalyanram003/leetcode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/kalyanram003/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalyanram003/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
