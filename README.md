@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/kalyanram003/leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kalyanram003/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalyanram003/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kalyanram003/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/kalyanram003/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/kalyanram003/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kalyanram003/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kalyanram003/leetcode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/kalyanram003/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalyanram003/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/kalyanram003/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalyanram003/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
