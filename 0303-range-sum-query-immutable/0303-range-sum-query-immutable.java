@@ -4,7 +4,7 @@ class NumArray {
         for(int i=1;i<nums.length;i++){
             nums[i]=nums[i-1]+nums[i];
         }
-            this.prefixSum=nums;
+        this.prefixSum=nums;
     }
     
     public int sumRange(int left, int right) {
