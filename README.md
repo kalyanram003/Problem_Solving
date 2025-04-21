@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/kalyanram003/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2388-replace-elements-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalyanram003/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalyanram003/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kalyanram003/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kalyanram003/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/kalyanram003/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalyanram003/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kalyanram003/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/kalyanram003/leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kalyanram003/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/kalyanram003/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/kalyanram003/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalyanram003/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalyanram003/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
 | ------- |
