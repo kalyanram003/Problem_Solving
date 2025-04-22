@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kalyanram003/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kalyanram003/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kalyanram003/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kalyanram003/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kalyanram003/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0556-next-greater-element-iii](https://github.com/kalyanram003/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1635-number-of-good-pairs](https://github.com/kalyanram003/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kalyanram003/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kalyanram003/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kalyanram003/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kalyanram003/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kalyanram003/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kalyanram003/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kalyanram003/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/kalyanram003/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kalyanram003/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kalyanram003/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kalyanram003/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
