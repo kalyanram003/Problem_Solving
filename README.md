@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/kalyanram003/leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/kalyanram003/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kalyanram003/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/kalyanram003/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kalyanram003/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kalyanram003/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/kalyanram003/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/kalyanram003/leetcode/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
