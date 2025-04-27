@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-sliding-subarray-beauty](https://github.com/kalyanram003/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/kalyanram003/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kalyanram003/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Backtracking
 |  |
 | ------- |
