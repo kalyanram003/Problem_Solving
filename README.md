@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kalyanram003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/kalyanram003/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0494-target-sum](https://github.com/kalyanram003/leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kalyanram003/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/kalyanram003/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0841-shortest-distance-to-a-character](https://github.com/kalyanram003/leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/kalyanram003/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kalyanram003/leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/kalyanram003/leetcode/tree/master/0494-target-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kalyanram003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kalyanram003/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/kalyanram003/leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kalyanram003/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0494-target-sum](https://github.com/kalyanram003/leetcode/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/kalyanram003/leetcode/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
