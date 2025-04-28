@@ -95,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/kalyanram003/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kalyanram003/leetcode/tree/master/0078-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kalyanram003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalyanram003/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kalyanram003/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kalyanram003/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kalyanram003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kalyanram003/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/kalyanram003/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalyanram003/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kalyanram003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalyanram003/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/kalyanram003/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kalyanram003/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kalyanram003/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/kalyanram003/leetcode/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/kalyanram003/leetcode/tree/master/1880-largest-merge-of-two-strings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kalyanram003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/kalyanram003/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Design
 |  |
