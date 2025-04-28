@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kalyanram003/leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/kalyanram003/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kalyanram003/leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/kalyanram003/leetcode/tree/master/0494-target-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kalyanram003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
