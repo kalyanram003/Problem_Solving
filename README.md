@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kalyanram003/leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/kalyanram003/leetcode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/kalyanram003/leetcode/tree/master/0800-letter-case-permutation) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kalyanram003/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kalyanram003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/kalyanram003/leetcode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/kalyanram003/leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/kalyanram003/leetcode/tree/master/1044-find-common-characters) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kalyanram003/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kalyanram003/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalyanram003/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kalyanram003/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
