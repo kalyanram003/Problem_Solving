@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kalyanram003/leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kalyanram003/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/kalyanram003/leetcode/tree/master/0494-target-sum) |
+| [0806-domino-and-tromino-tiling](https://github.com/kalyanram003/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/kalyanram003/leetcode/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
