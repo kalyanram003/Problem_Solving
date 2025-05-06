@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/kalyanram003/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/kalyanram003/leetcode/tree/master/1656-count-good-triplets) |
 | [1848-sum-of-unique-elements](https://github.com/kalyanram003/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2048-build-array-from-permutation](https://github.com/kalyanram003/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2211-k-radius-subarray-averages](https://github.com/kalyanram003/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2228-watering-plants-ii](https://github.com/kalyanram003/leetcode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalyanram003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/kalyanram003/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2228-watering-plants-ii](https://github.com/kalyanram003/leetcode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalyanram003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2388-replace-elements-in-an-array](https://github.com/kalyanram003/leetcode/tree/master/2388-replace-elements-in-an-array) |
