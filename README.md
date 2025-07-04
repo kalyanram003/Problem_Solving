@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kalyanram003/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kalyanram003/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/kalyanram003/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kalyanram003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kalyanram003/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kalyanram003/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kalyanram003/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kalyanram003/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/kalyanram003/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kalyanram003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kalyanram003/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kalyanram003/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kalyanram003/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/kalyanram003/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kalyanram003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kalyanram003/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kalyanram003/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kalyanram003/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/kalyanram003/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/kalyanram003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kalyanram003/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Memoization
 |  |
