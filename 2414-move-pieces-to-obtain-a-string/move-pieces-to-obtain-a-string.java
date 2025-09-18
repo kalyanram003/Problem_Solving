@@ -1,38 +1,35 @@
 class Solution {
     public boolean canChange(String start, String target) {
-        if(start.equals(target)){
-            return true;
+        if (!start.replace("_", "").equals(target.replace("_", ""))) {
+            return false;
         }
-        int l=0;
-        int r=0;
-        for(int i=0;i<start.length();i++){
-            char curr=start.charAt(i);
-            int tar=target.charAt(i);
-            if(curr=='R'){
-                if(l>0){
-                    return false;
-                }
-                r++;
+        int i=0;
+        int j=0;
+        int n=start.length();
+        while(i<n && j<n){
+            while(i<n && start.charAt(i)=='_'){
+                i++;
             }
-            if(tar=='L'){
-                if(r>0){
-                    return false;
-                }
-                l++;
+            while(j<n && target.charAt(j)=='_'){
+                j++;
             }
-            if(tar=='R'){
-                if(r==0){
-                    return false;
-                }
-                r--;
+            if(i==n || j==n){
+                break;
             }
-            if(curr=='L'){
-                if(l==0){
-                    return false;
-                }
-                l--;
+            if(start.charAt(i)!=target.charAt(j)){
+                return false;
             }
+
+            if(start.charAt(i)=='L' && i<j){
+                return false;
+            }
+
+            if(start.charAt(i)=='R' && i>j){
+                return false;
+            }
+            i++;
+            j++;
         }
-        return l==0 && r==0;
+        return true;
     }
 }
